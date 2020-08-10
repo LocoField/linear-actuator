@@ -28,10 +28,11 @@ It converts rotary motion of a motor into linear displacement via ball screw.
 
 * 20mm hollow linear shaft
   - 250mm
+  - add retaining (snap) rings
   - https://blog.naver.com/taimins1/221601223940
 
 * Motor
-  - 220V 750W AC Servo motor 2.39N.m 3000RPM
+  - 220V 750W AC Servo motor 2.39N.m 3000RPM + MODBUS
   - https://de.aliexpress.com/item/32844239563.html?spm=a2g0x.12010612.8148356.3.65176edfLCpj9G
 
 * Coupling DJC-40CRD
@@ -41,9 +42,3 @@ It converts rotary motion of a motor into linear displacement via ball screw.
   - M8x40 8EA for profile
   - M6x30 4EA for motor
   - M4x25 10EA
-
-
-## Build
-
-* Ball nut bumper and o-ring
-<img src="https://git.medit.com/eunsangko/linear-actuator/blob/master/Images/o-ring%20on%20ball%20nut%20bumper.jpg"/>
