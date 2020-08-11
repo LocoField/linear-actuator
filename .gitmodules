@@ -1,0 +1,3 @@
+[submodule "SOLIDWORKS"]
+	path = SOLIDWORKS
+	url = https://github.com/LocoField/linear-actuator-models.git
