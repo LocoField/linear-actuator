@@ -11,9 +11,9 @@ It converts rotary motion of a motor into linear displacement via ball screw.
 
 ## Parts
 
-* Aluminum profile 80x80
+* DY Aluminum profile 80x80
   - 200mm
-  - https://smartstore.naver.com/bandotec/products/373076762
+  - https://www.dy-al.com
   
 * RJMP-01-20 (flange linear plastic bearing)
   - https://www.igus.kr/product/984
@@ -37,6 +37,10 @@ It converts rotary motion of a motor into linear displacement via ball screw.
 
 * Coupling DJC-40CRD
   - 8mm x 19mm
+
+* Leveling foot and mount
+  - MFNR59 M12 75mm
+  - Aluminum machining for mount
 
 * Hex head bolts
   - M8x40 8EA for profile
